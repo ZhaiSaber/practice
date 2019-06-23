@@ -3,3 +3,5 @@ dev-edited in master
 done
 
 new dev change
+add a line before stash.
+
