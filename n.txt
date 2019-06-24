@@ -7,5 +7,4 @@ add a line before stash.
 edit
 
 dev 1
-
-partner change this dev 1
+v1.0
