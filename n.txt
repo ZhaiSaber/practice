@@ -6,3 +6,4 @@ new dev change
 add a line before stash.
 edit
 
+dev 1
